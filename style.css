@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(46, 11, 143);
+}
+
+.container {
+    text-align: center;
+}
+.image:not(:last-child) {
+    padding-bottom: 50px;
+} 
